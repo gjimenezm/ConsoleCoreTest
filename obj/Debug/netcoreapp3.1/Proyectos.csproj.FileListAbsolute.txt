@@ -1,0 +1,13 @@
+E:\aodlz\Proyectos\consoleTest\bin\Debug\netcoreapp3.1\Proyectos.exe
+E:\aodlz\Proyectos\consoleTest\bin\Debug\netcoreapp3.1\Proyectos.deps.json
+E:\aodlz\Proyectos\consoleTest\bin\Debug\netcoreapp3.1\Proyectos.runtimeconfig.json
+E:\aodlz\Proyectos\consoleTest\bin\Debug\netcoreapp3.1\Proyectos.runtimeconfig.dev.json
+E:\aodlz\Proyectos\consoleTest\bin\Debug\netcoreapp3.1\Proyectos.dll
+E:\aodlz\Proyectos\consoleTest\bin\Debug\netcoreapp3.1\Proyectos.pdb
+E:\aodlz\Proyectos\consoleTest\obj\Debug\netcoreapp3.1\Proyectos.csprojAssemblyReference.cache
+E:\aodlz\Proyectos\consoleTest\obj\Debug\netcoreapp3.1\Proyectos.csproj.CoreCompileInputs.cache
+E:\aodlz\Proyectos\consoleTest\obj\Debug\netcoreapp3.1\Proyectos.AssemblyInfoInputs.cache
+E:\aodlz\Proyectos\consoleTest\obj\Debug\netcoreapp3.1\Proyectos.AssemblyInfo.cs
+E:\aodlz\Proyectos\consoleTest\obj\Debug\netcoreapp3.1\Proyectos.dll
+E:\aodlz\Proyectos\consoleTest\obj\Debug\netcoreapp3.1\Proyectos.pdb
+E:\aodlz\Proyectos\consoleTest\obj\Debug\netcoreapp3.1\Proyectos.genruntimeconfig.cache
